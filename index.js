@@ -1,9 +1,9 @@
 const code1 = 5 + 5;
 
-// Using multiplication (*) to get 40
+//  multiplying * to get 40
 const code2 = 8 * 5;
 
-// Using division (/) to get 39
+// Using division / to get 39
 const code3 = 78 / 2;
 
 console.log(
